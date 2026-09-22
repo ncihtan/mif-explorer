@@ -1,0 +1,6 @@
+[
+  { "file_id": "HTA5_1043_23001", "entity_id": "syn68695452", "participant_id": "HTA5_1043", "diagnosis": "Malignant melanoma NOS", "center": "HTAN DFCI", "assay_type": "MxIF", "panel_id": "syn69073888" },
+  { "file_id": "HTA3_80006_10062", "entity_id": "syn59611753", "participant_id": "HTA3_80006", "diagnosis": "Adenocarcinoma NOS", "center": "HTAN BU", "assay_type": "MxIF", "panel_id": "syn58895768" },
+  { "file_id": "HTA5_1529_13100", "entity_id": "syn68695423", "participant_id": "HTA5_1529", "diagnosis": "Malignant melanoma NOS", "center": "HTAN DFCI", "assay_type": "MxIF", "panel_id": "syn69073888" },
+  { "file_id": "HTA4_1009_123339", "entity_id": "syn64153273", "participant_id": "HTA4_1009", "diagnosis": "Neuroblastoma NOS", "center": "HTAN CHOP", "assay_type": "CODEX", "panel_id": "syn64153765" }
+]

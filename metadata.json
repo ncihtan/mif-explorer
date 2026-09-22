@@ -1,0 +1,6 @@
+{
+  "name": "mIF Explorer v2.0",
+  "description": "High-performance biological data explorer for multiplexed immunofluorescence (mIF) datasets, featuring O(1) indexed lookups, advanced filtering, and AI-powered analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
